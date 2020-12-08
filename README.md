@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning web3 - solidity - embedded C - MERN - PyTorch.
+- 🌱 I’m currently learning Web3 - Solidity - C/C++ - MERN - PyTorch.
 - 🔭 I’m currently working on remote development tasks - e-commerce project - various IoT sensor projects.
 - 📫 How to reach me: roryjd123@gmail.com
 <!--
