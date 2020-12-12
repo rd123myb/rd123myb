@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Web3 - Solidity - C/C++ - MERN - PyTorch.
 - 🔭 I’m currently working on remote development tasks - e-commerce project - various IoT sensor projects.
-- 📫 How to reach me: roryjd123@gmail.com
 <!--
 **rd123myb/rd123myb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
