@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning web3 - React - WASM - PyTorch.
+- 🌱 I’m currently learning Web3 - React.
 - 🔭 I’m currently working on remote development tasks - e-commerce project - various IoT sensor projects.
 <!--
 **rd123myb/rd123myb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
